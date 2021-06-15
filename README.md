@@ -4,6 +4,8 @@ For information on how to use this repository, see [Python](https://docs.microso
 
 | Example | Build status |
 |---------|--------------|
+| Build [![Build Status](https://dev.azure.com/Nitor-Org/DemoProject/_apis/build/status/santosh-kolekar.pipelines-python-django?branchName=master)](https://dev.azure.com/Nitor-Org/DemoProject/_build/latest?definitionId=3&branchName=master)
+
 | Build [![Build Status](https://dev.azure.com/vishalpadghan/DemoProjectForToday/_apis/build/status/vishalrpadghan.pipelines-python-django?branchName=master)](https://dev.azure.com/vishalpadghan/DemoProjectForToday/_build/latest?definitionId=2?branchName=master) |
 
 | Build (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/python-django/python)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=13) |
